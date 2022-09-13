@@ -1,5 +1,5 @@
-# Netflix-Landing-Page-UI
-This is a UI of a Netflix landing page. I have developed it using React, JSX, CSS, Bootstrap.
+# Eid-Zakat-Donation
+This is a simple webpage. I have developed it using React, JSX, CSS, Bootstrap.
 
 ### Deployment
 | Environment | Link |
